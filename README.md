@@ -45,3 +45,7 @@
 8. Use Case F1  Change Object Name
     
     ![preview](https://imgur.com/PC7FQxM.jpg)
+
+## UML diagram
+
+ ![preview](https://imgur.com/GSsBfq2.png)
