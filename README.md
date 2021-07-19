@@ -1,5 +1,5 @@
 # UML-editor
- Create an basic UML editor and implement som features
+ Create a basic UML editor and implement some features
 
  ## Demo
 ![preview](https://i.imgur.com/EYLMbhh.gif)
